@@ -1,5 +1,5 @@
 ## Hello World! 
-O meu nome é João, sou um desenvolvedor que ama um código bem feito e acredita que saber não é o bastante; devemos aplicar.
+O meu nome é Douglas Golino Aguiar, sou um desenvolvedor que ama um código bem feito e acredita que saber não é o bastante; devemos aplicar.
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Backend .NET
 - 🌱 Estou estudando GoLang
