@@ -6,8 +6,8 @@ O meu nome é Douglas Golino Aguiar, sou um desenvolvedor que ama um código bem
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-	<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 	<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+	<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>	
 	<a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
 	<a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/></a>
 	<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
