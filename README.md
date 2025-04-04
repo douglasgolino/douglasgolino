@@ -2,7 +2,7 @@
 O meu nome é Douglas Golino Aguiar, sou um desenvolvedor que ama um código bem feito e acredita que saber não é o bastante; devemos aplicar.
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Backend .NET
-- 🌱 Estou estudando GoLang
+- 🌱 Estou estudando GoLang e Python
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
