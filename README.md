@@ -1,8 +1,8 @@
 ### Olá 👋
 
-#### Desenvolvedor Backend, entusiasta de arquitetura de software e automação com IA
+#### Desenvolvedor .NET, com foco em arquitetura de sistemas e automação com IA
 
-- ⚙️ Trabalho principalmente com `.NET`, `C#`, arquitetura de serviços e sistemas orientados a eventos
-- 🔍 Interesses recorrentes: engenharia de software, escalabilidade, e aplicar IA generativa em problemas reais
-- 🧩 Gosto de sistemas simples de entender e difíceis de quebrar
-- 💬 `ping` para falar sobre arquitetura, automação, .NET ou IA aplicada
+- ⚙️ Trabalho no dia a dia com `.NET`, `C#` e arquitetura de serviços distribuídos
+- 🧠 Aplico IA generativa em fluxos reais — automação, integração e orquestração
+- 🧩 Prefiro sistemas simples de entender a sistemas impressionantes de explicar
+- 💬 Fale comigo sobre arquitetura, backend ou engenharia aplicada a IA
